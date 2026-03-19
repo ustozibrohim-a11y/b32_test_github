@@ -1,0 +1,1 @@
+print("Nimadirlar nimadir !!!")
